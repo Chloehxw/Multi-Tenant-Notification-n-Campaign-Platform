@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cmp-001",
+    "tenantId": "tenant-01",
+    "name": "Black Friday Mega Sale",
+    "sent": 12500,
+    "failed": 300,
+    "pending": 800,
+    "updatedAt": "2026-02-25T10:00:00Z"
+  },
+  {
+    "id": "cmp-002",
+    "tenantId": "tenant-02",
+    "name": "OTP Verification Batch",
+    "sent": 5000,
+    "failed": 1500,
+    "pending": 200,
+    "updatedAt": "2026-02-25T10:00:00Z"
+  }
+]
